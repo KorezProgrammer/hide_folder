@@ -1,1 +1,1 @@
-# hide_folder
+This program asks you for your national code and a password. Then it creates a folder for you. Put your important information in this folder and open the program again. In this case, the folder will be hidden. If you want to see the folder again, you must first run the program and then enter the national code and the password you gave at the beginning.
